@@ -118,7 +118,7 @@ img{
 }
 
 #transform-world
-{   height: 1rem;
+{   height: 15rem;
     background-image: url("../images/woman-code.png");
     background-attachment: fixed;
     background-size: cover;
